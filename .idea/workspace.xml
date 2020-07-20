@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f73cd828-e945-4ce4-a589-4f4071af6103" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="f73cd828-e945-4ce4-a589-4f4071af6103" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdapterPattern/Adapter/TurkeyAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdapterPattern/Implement1/MallardDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdapterPattern/Implement2/WildTurkey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdapterPattern/Interface1/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AdapterPattern/Interface2/Turkey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProxyPattern/RemoteExample/MyRemote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProxyPattern/RemoteExample/MyRemoteImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProxyPattern/Virtual/ProxyImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProxyPattern/Virtual/ProxyImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProxyPattern/Virtual/RealImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProxyPattern/Virtual/RealImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,23 +28,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ecKdeRMqWfL55J92LuI48JFjiA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DesignPattern/Practice" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -62,10 +71,24 @@
       <workItem from="1594632957722" duration="4923000" />
       <workItem from="1594698739349" duration="4917000" />
       <workItem from="1594778782183" duration="1915000" />
+      <workItem from="1594864663677" duration="6541000" />
+      <workItem from="1595236375124" duration="1323000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

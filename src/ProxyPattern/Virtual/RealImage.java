@@ -1,7 +1,7 @@
 package ProxyPattern.Virtual;
 
 public class RealImage implements Image {
-    private String fileName;
+    private final String fileName;
 
     public RealImage(String fileName) {
         this.fileName = fileName;
